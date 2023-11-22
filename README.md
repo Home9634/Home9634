@@ -11,12 +11,12 @@ You can reach me through discord, tadingo.
 
 Let's look more into my projects
 
-# Scribble
+### Scribble
 
 [Scribble](https://replit.com/@Home9634red/Scribble?v=1)) was the first ever Discord Bot I created, using Javascript and hosting it on Replit. Due to it being my first bot, it has a lot of speghatti code, but it's still my child :)
 [If you're curious about what my Discord Bot does, you can join [this Discord server]((https://discord.gg/Bb5zm4AgPP)) and do e!help to find out more about it]
 
-# Firebush
+### Firebush
 
 🔥[Firebush](https://firebush.netlify.app/) is a text simulator based off of a YouTube Minecraft seires. But you don't need to know the context. This is the first game I developed using not only Javascript, but HTML and CSS as well.
 
